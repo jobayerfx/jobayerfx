@@ -9,7 +9,7 @@ I am not just your average Full Stack Developer; I am your seasoned guide to the
 
 🚀 **Core Technologies**:
 - Front-end: React.js, Vue.js, Next.js, Nuxt.js
-- Back-end: Node.js, Express.js, PHP,Laravel, Codeigniter
+- Back-end: Node.js, Express.js, Fastify.js, PHP, Laravel
 - Database: SQL, MySQL, MariaDB, Firestore, MongoDB, Redis
 - Cloud & Serverless: AWS, Firebase
 - Testing: Jest
