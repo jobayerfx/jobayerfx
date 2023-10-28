@@ -12,7 +12,7 @@ I am not just your average Full Stack Developer; I am your seasoned guide to the
 - Back-end: Node.js, Express.js, Fastify.js, PHP, Laravel
 - Database: SQL, MySQL, MariaDB, Firestore, MongoDB, Redis
 - Cloud & Serverless: AWS, Firebase
-- Testing: Jest, Unit Test
+- Testing: Jest, PHPUnit
 - Web Technologies: Push Notifications, Web Scraping
 - Frameworks: Laravel, Codeigniter, dJango, Symfony
 - DevOps & Version Control: Git, SVN
