@@ -15,7 +15,7 @@ I am not just your average Full Stack Developer; I am your seasoned guide to the
 - Testing: Jest, PHPUnit
 - Web Technologies: Push Notifications, Web Scraping
 - Frameworks: Laravel, Codeigniter, dJango, Symfony
-- DevOps & Version Control: Git, SVN
+- DevOps & Version Control: Cloud Computing, Git, SVN
 - Tools: Postman, VS Code, Figma, Swagger, JIRA, Confluence, and Trello
 
 🌱 **Currently Learning**:
